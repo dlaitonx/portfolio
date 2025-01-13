@@ -1,0 +1,51 @@
+body {
+    background: #f5f6f7;
+    color: #1b1b32;
+    font-family: Helvetica;
+    margin: 0;
+}
+#img-div {
+    background: white;
+    font-family: Calibri;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    padding: 10px;
+    padding-bottom: 4px;
+    padding-top: 15px;
+}
+#img-caption {
+    text-align: center;
+    font-style: italic;
+    font-size: 15px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    font-family: sans-serif;
+}
+#tribute-info {
+    color: #1b1b32;
+    font-family: tahoma;
+    display: flex;
+    padding-top: 30px;
+    padding-left: 15%;
+    padding-right: 15%;
+    font-size: 14px;
+}
+li {
+    padding-bottom: 20px;
+}
+p {
+    text-align: center;
+    font-size: 14px;
+    font-style: italic
+}
